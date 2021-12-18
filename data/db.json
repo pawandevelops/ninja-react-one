@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "Kane and Abel",
+      "body": "Willam Kane and Abel Rosnovski are two men whose paths were destined to meet and would change their lives forever. Kane is the son of a prominent Boston banker, Abel is the multilingual son of a Polish baron, who grew up a peasant but was taken in by the Baron not knowing that he's his father.",
+      "author": "Jeffrey Archer",
+      "id": 1
+    },
+    {
+      "title": "A Time to Kill",
+      "body": "Carl Lee Hailey is a heartbroken black father who avenges his daughter's brutal rape by shooting the bigoted men responsible for the crime as they are on their way to trial. He turns to Jake Brigance, an untested lawyer, to defend him. Brigance struggles to believe that he can get Hailey acquitted in this small, segregated Southern town, given Hailey's race and the deliberate nature of his crimes, but Carl has unshakable faith in him.",
+      "author": "John Grisham",
+      "id": 2
+    },
+    {
+      "title": "The Hound of the Baskervilles",
+      "body": "Sherlock Holmes is intrigued by a centuries-old legend in which every generation of the wealthy Baskerville family is eventually killed by a monstrous hound. Suspecting there is more to the story than meets the eye, he sends Dr. Watson (Nigel Bruce) to the estate to investigate. Sir Henry (Richard Greene), the only Baskerville left, is grateful for his help. But when a crazed convict escapes and footprints from a beast are found, Baskerville wonders if Watson will be enough.",
+      "author": "Sir Arthur Conan Doyle",
+      "id": 3
+    },
+    {
+      "title": "The Last of the Mohicans",
+      "body": "The last members of a dying Native American tribe, the Mohicans -- Uncas (Eric Schweig), his father Chingachgook (Russell Means), and his adopted half-white brother Hawkeye (Daniel Day-Lewis) -- live in peace alongside British colonists. But when the daughters (Madeleine Stowe, Jodhi May) of a British colonel are kidnapped by a traitorous scout, Hawkeye and Uncas must rescue them in the crossfire of a gruesome military conflict of which they wanted no part: the French and Indian War.",
+      "author": "James Fenimore Cooper",
+      "id": 4
+    },
+    {
+      "title": "Discovery of India",
+      "body": "The journey in The Discovery of India begins from ancient history, leading up to the last years of the British Raj. Nehru uses his knowledge of the Upanishads, Vedas, and textbooks on ancient history to introduce to the reader the development of India from the Indus Valley Civilization, through the changes in socio-political scenario every foreign invader brought, to the present day conditions.\nNehru was jailed for his participation in the Quit India Movement along with other Indian leaders, and he used this time to write down his thoughts and knowledge about India's history. The book provides a broad view of Indian history, philosophy and culture, as viewed from the eyes of an Indian fighting for the independence of his country. He wrote the book during his imprisonment.\n In The Discovery of India, Nehru argued that India was a historic nation with a right to sovereignty. This book also analyses in depth the philosophy of Indian life. It has 10 chapters. ",
+      "author": "Nehru",
+      "id": 5
+    },
+    {
+      "title": "Discovery of India",
+      "body": "The journey in The Discovery of India begins from ancient history, leading up to the last years of the British Raj. Nehru uses his knowledge of the Upanishads, Vedas, and textbooks on ancient history to introduce to the reader the development of India from the Indus Valley Civilization, through the changes in socio-political scenario every foreign invader brought, to the present day conditions.\nNehru was jailed for his participation in the Quit India Movement along with other Indian leaders, and he used this time to write down his thoughts and knowledge about India's history. The book provides a broad view of Indian history, philosophy and culture, as viewed from the eyes of an Indian fighting for the independence of his country. He wrote the book during his imprisonment.\n In The Discovery of India, Nehru argued that India was a historic nation with a right to sovereignty. This book also analyses in depth the philosophy of Indian life. It has 10 chapters. ",
+      "author": "Nehru",
+      "id": 6
+    },
+    {
+      "title": "Ramayana",
+      "body": "Ramayana is an ancient mythological book. It is not an actual history book",
+      "author": "john",
+      "id": 7
+    }
+  ]
+}
