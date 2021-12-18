@@ -6,6 +6,7 @@ import Create from './Create';
 import BlogDetails from './BlogDetails';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import NotFound from './NotFound';
+// add new comment for checking
 
 function App() {
   
